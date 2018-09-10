@@ -531,7 +531,9 @@ SOCIAL ICON
 
 .navbar-custom .navbar-brand {
     font-weight: 700;
-    font-size: 18px;
+    font-size: 20px;
+    display: flex;
+    align-items: center;
 }
 
 .navbar-custom .nav .open > a,
